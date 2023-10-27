@@ -1,0 +1,47 @@
+
+th {
+	color:rebeccapurple !important;
+}
+
+.btn-outline-primary {
+	color:rebeccapurple !important;
+	border-color:rebeccapurple !important;
+}
+
+.nav-link{
+	
+}
+
+.marquee {
+  overflow: hidden; /* Oculta el contenido que se desborda */
+  position: relative; /* Posición relativa para que el contenido desplazado sea absoluto con respecto a este div */
+}
+
+.marquee-container {
+  height: 200px;
+  overflow: hidden;
+  white-space: nowrap;
+  position: relative;
+  background-color: #f0f0f0;
+  padding: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.marquee-content {
+  position: absolute;
+  width: 100%;
+  animation: marquee 15s linear infinite; /* Configuración de la animación */
+}
+
+@keyframes marquee {
+  0% { top: 100%; } /* Inicio de la animación, inicia desde abajo */
+  100% { top: -100%; } /* Fin de la animación, termina arriba */
+}
+
+ .bi-heart-fill {
+    color: blueviolet;
+  }
+
+
+
+

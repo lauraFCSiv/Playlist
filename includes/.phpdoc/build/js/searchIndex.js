@@ -1,0 +1,54 @@
+Search.appendIndex(
+    [
+                {
+            "fqsen": "\\getSongsByName\u0028\u0029",
+            "name": "getSongsByName",
+            "summary": "",
+            "url": "namespaces/default.html#function_getSongsByName"
+        },                {
+            "fqsen": "\\getAllSongs\u0028\u0029",
+            "name": "getAllSongs",
+            "summary": "",
+            "url": "namespaces/default.html#function_getAllSongs"
+        },                {
+            "fqsen": "\\checkLoginUser\u0028\u0029",
+            "name": "checkLoginUser",
+            "summary": "",
+            "url": "namespaces/default.html#function_checkLoginUser"
+        },                {
+            "fqsen": "\\suma\u0028\u0029",
+            "name": "suma",
+            "summary": "",
+            "url": "namespaces/default.html#function_suma"
+        },                {
+            "fqsen": "\\createBD\u0028\u0029",
+            "name": "createBD",
+            "summary": "",
+            "url": "namespaces/default.html#function_createBD"
+        },                {
+            "fqsen": "\\openConnectionDB\u0028\u0029",
+            "name": "openConnectionDB",
+            "summary": "",
+            "url": "namespaces/default.html#function_openConnectionDB"
+        },                {
+            "fqsen": "\\closeConnection\u0028\u0029",
+            "name": "closeConnection",
+            "summary": "",
+            "url": "namespaces/default.html#function_closeConnection"
+        },                {
+            "fqsen": "\\createTableSongs\u0028\u0029",
+            "name": "createTableSongs",
+            "summary": "",
+            "url": "namespaces/default.html#function_createTableSongs"
+        },                {
+            "fqsen": "\\insertValuesIntoTableSongs\u0028\u0029",
+            "name": "insertValuesIntoTableSongs",
+            "summary": "",
+            "url": "namespaces/default.html#function_insertValuesIntoTableSongs"
+        },                {
+            "fqsen": "\\",
+            "name": "\\",
+            "summary": "",
+            "url": "namespaces/default.html"
+        }            ]
+);
